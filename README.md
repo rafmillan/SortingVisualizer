@@ -9,13 +9,13 @@ Visualizer tool for various sorting algorithms
 
 ---
 
-##ToDo:
+## ToDo:
 - [ ] Animate Agorithms
 - [ ] Display relevant information such as # of comparisson and array accesses
 - [ ] Add more algorithms
 - [ ] sound?
 ---
-####Inspired by: 
+#### Inspired by: 
 
 **Sorting Algorithms Visualized**
 by: [Timo Bingmann](https://www.youtube.com/channel/UC9m2XDfCnrS4QTzVBTrD89w)
